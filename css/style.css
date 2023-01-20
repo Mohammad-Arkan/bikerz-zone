@@ -1,3 +1,10 @@
 .bikerz-zoon-bg-red{
     background-color: rgb(211, 135, 135);
 }
+.rating-icon{
+    width: 20px;
+}
+.btn-bz-danger{
+    background-color: #E76F51;
+    color: white;
+}
